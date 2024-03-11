@@ -34,14 +34,14 @@ Users should be able to:
 
 ### Link
 
-- Solution URL: [Add solution URL here](https://github.com/JxckWilsxn/Social-Proof-Section/)
+- Solution URL: [Solution](https://social-proof-section-beryl-six.vercel.app/)
 
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
+- CSS Grid
 
 
 ### What I learned
@@ -53,5 +53,5 @@ Through this challenge and my own frustrations, I was able to learn what all the
 
 ## Author
 
-- Website - [github.com/JxckWilsxn](https://github.com/JxckWilsxn)
+- GitHub Account - [github.com/JxckWilsxn](https://github.com/JxckWilsxn)
 - Frontend Mentor - [@JxckWilsxn](https://www.frontendmentor.io/profile/JxckWilsxn)
