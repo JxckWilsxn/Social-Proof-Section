@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Link
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/JxckWilsxn/Social-Proof-Section/)
 
 
 ### Built with
@@ -53,5 +53,5 @@ Through this challenge and my own frustrations, I was able to learn what all the
 
 ## Author
 
-- Website - [Jack](https://www.your-site.com)
+- Website - [Jack](https://github.com/JxckWilsxn)
 - Frontend Mentor - [@JxckWilsxn](https://www.frontendmentor.io/profile/JxckWilsxn)
