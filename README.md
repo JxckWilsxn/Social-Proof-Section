@@ -53,5 +53,5 @@ Through this challenge and my own frustrations, I was able to learn what all the
 
 ## Author
 
-- Website - [Jack](https://github.com/JxckWilsxn)
+- Website - [github.com/JxckWilsxn](https://github.com/JxckWilsxn)
 - Frontend Mentor - [@JxckWilsxn](https://www.frontendmentor.io/profile/JxckWilsxn)
