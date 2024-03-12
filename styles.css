@@ -46,7 +46,7 @@ body {
 
 .grid-item-1 h1 {
     width: 25rem;
-    font-size: 50px;
+    font-size: 55px;
     color: hsl(300, 43%, 22%);
     line-height: 3rem;
 }
@@ -57,6 +57,7 @@ body {
     margin-top: -10px;
     font-size: 18px;
     font-weight: 500;
+    line-height: 1.5em;
 }
 
 .grid-item-2 {
@@ -99,7 +100,7 @@ body {
 #Reviews {
     margin-top: 4rem;
     background-color: #f7f2f8;
-    width: 50%;
+    width: 60%;
     padding: 5px 0px 5px 25px;
     border-radius: 10px;
     float: right;
@@ -109,7 +110,7 @@ body {
 #ReportGuru {
     margin-top: 3.5rem;
     background-color: #f7f2f8;
-    width: 50%;
+    width: 60%;
     padding: 5px;
     padding: 5px 0px 5px 25px;
     border-radius: 10px;
@@ -123,7 +124,7 @@ body {
 #BestTech {
     margin-top: 3.5rem;
     background-color: #f7f2f8;
-    width: 50%;
+    width: 60%;
     padding: 5px 0px 5px 25px;
     border-radius: 10px;
     float: right;
@@ -174,7 +175,7 @@ body {
     background-color: hsl(300, 43%, 22%);
     border-radius: 10px;
     width: 20rem;
-    height: 10rem;
+    height: 11rem;
     color: hsl(0, 0%, 100%);
     overflow: hidden;
 }
@@ -182,7 +183,7 @@ body {
 .grid-item-3 h3, .grid-item-4 h3, .grid-item-5 h3 {
     float: right;
     margin-right: 10rem;
-    
+    font-size: 16px;
 }
 
 .grid-item-3 h4, .grid-item-4 h4, .grid-item-5 h4 {
@@ -190,6 +191,8 @@ body {
     font-weight: 400;
     text-align: center;
     margin-right: 7rem;
+    font-size: 16px;
+    line-height: 2rem;
 }
 
 .grid-item-3 img, .grid-item-4 img, .grid-item-5 img {
@@ -200,6 +203,7 @@ body {
 
 .grid-item-3 p, .grid-item-4 p, .grid-item-5 p {
    font-size: 17px; 
+   line-height: 1.5em;
 }
 
 #colton h3 {
@@ -210,7 +214,7 @@ body {
 
 #colton h4 {
     position: absolute ;
-    margin-left: 4.3rem;
+    margin-left: 4rem;
     margin-top: -1.8rem;
 }
 
@@ -222,7 +226,7 @@ body {
 
 #irene h4 {
     position: absolute ;
-    margin-left: 4.2rem;
+    margin-left: 3.8rem;
     margin-top: -1.8rem;
 }
 
@@ -234,7 +238,7 @@ body {
 
 #anne h4 {
     position: absolute ;
-    margin-left: 4.1rem;
+    margin-left: 3.7rem;
     margin-top: -1.8rem;
 }
 
@@ -410,7 +414,7 @@ body {
     }
 
     #colton h4 {
-        margin-left: 5.3rem;
+        margin-left: 5rem;
     }
 
     
@@ -419,7 +423,7 @@ body {
     }
 
     #irene h4 {
-        margin-left: 5.1rem;
+        margin-left: 4.8rem;
     }
 
        
@@ -428,7 +432,7 @@ body {
     }
 
     #anne h4 {
-        margin-left: 5.0rem;
+        margin-left: 4.7rem;
     }
 
 
